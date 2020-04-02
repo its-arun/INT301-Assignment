@@ -12,7 +12,7 @@
 			<h1>Bill Calculator</h1>
 		</header>
 		<main>
-			<form id="main-form" name="main-form" action="" method="POST">
+			<form id="main-form" name="main-form" action="bill.php" method="POST">
 				<div class="input-container">
 					<label for="consumption">Units Consumed:</label>
                     <input class="default-input" id="consumption" placeholder="0" type="number" name="units">
