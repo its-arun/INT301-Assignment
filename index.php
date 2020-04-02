@@ -18,7 +18,6 @@
                     <input class="default-input" id="consumption" placeholder="0" type="number" name="units">
 				</div>
 			</form>
-			<p id="output"></p>
 		</main>
 		<div class="form-footer">
 			<div class="button-wrapper">

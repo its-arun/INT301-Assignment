@@ -12,7 +12,7 @@
     -webkit-appearance: none;
     margin: 0;
   }
-  
+
   body {
     width: 100wh;
     height: 100vh;
@@ -45,7 +45,15 @@
   }
   
   h1 {
-    font-size: 48px;
+    font-size: 3vw;
+    line-height: 60px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  h1.larger {
+    font-size: 8vw;
     line-height: 60px;
     font-weight: 700;
     text-transform: uppercase;
